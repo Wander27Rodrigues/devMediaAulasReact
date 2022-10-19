@@ -1,5 +1,5 @@
 <h1 align="center">
-  PORTIFOLIO
+  Dev Media
 </h1>
 
 <p align="center">
